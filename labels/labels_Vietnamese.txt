@@ -1,0 +1,22 @@
+Nhãn,Tên biển báo
+0,Tốc độ tối đa cho phép (20km/h)          
+1,Tốc độ tối đa cho phép (40km/h)                                              
+2,Tốc độ tối đa cho phép (50km/h)                
+3,Tốc độ tối đa cho phép (60km/h)                                          
+4,Cấm đi ngược chiều       
+5,Cấm rẽ trái và xe quay đầu                                          
+6,Cấm rẽ phải           
+7,Cấm quay xe và không cấm rẽ trái           
+8,Cấm dừng xe và đỗ xe              
+9,Đường người đi bộ cắt ngang           
+10,Cấm dừng xe và đỗ xe                              
+11,Đường giao nhau cùng cấp                     
+12,Giao nhau với đường không ưu tiên          
+13,Giao nhau với đường ưu tiên                       
+14,Dừng lại                      
+15,Công trường                                                     
+16,Đi chậm                                                          
+17,Hướng phải đi vòng chướng ngại vật          
+18,Đường dành cho người đi bộ                     
+19,Đường một chiều                                        
+20,Trạm cung cấp xăng dầu

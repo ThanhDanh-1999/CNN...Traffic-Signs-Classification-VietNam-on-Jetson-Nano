@@ -1,0 +1,11 @@
+opencv-contrib-python
+opencv-python
+scikit-learn
+scipy
+sklearn
+keras==2.3.1
+tensorflow
+matplotlib
+pandas
+pillow
+h5py

@@ -1,0 +1,22 @@
+ClassId,Name
+0,Toc do toi da cho phep (20km/h)            
+1,Toc do toi da cho phep (40km/h)                                            
+2,Toc do toi da cho phep (50km/h)                  
+3,Toc do toi da cho phep (60km/h)
+4,Cam di nguoc chieu
+5,Cam re trai va xe quay dau                
+6,Cam re phai                                         
+7,Cam quay xe va khong cam re trai                                       
+8,Cam dung xe va do xe                                           
+9,Duong nguoi di bo cat ngang                
+10,Cam oto tai vuot                           ​
+11,Duong giao nhau cung cap                    
+12,Giao nhau voi duong khong uu tien         
+13,Giao nhau voi duong uu tien                     ​
+14,Dung lai          ​
+15,Cong truong                                                     
+16,Di cham                                                          
+17,Huong phai di vong chuong ngai vat         
+18,Duong danh cho nguoi di bo                   
+19,Duong mot chieu                                 
+20,Tram cung cap xang dau
